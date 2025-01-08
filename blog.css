@@ -1,0 +1,27 @@
+body{
+    margin: 0;
+    padding: 20px;
+font-family: cursive;           
+}
+
+header{
+    color: aqua;
+    text-align: center;
+    font-size: x-large;
+}
+main{
+    display: flex;
+    width: 60%;
+    margin: 0 auto;
+    text-align: center;
+}
+button{
+    margin-left: 45%;
+    background-color:cadetblue;
+}
+
+button a{
+    color:peachpuff;
+    text-decoration: double;
+    font-family: cursive;
+}
